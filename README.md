@@ -1,6 +1,6 @@
 ## Olá! Eu sou Guilherme Morone
 
-- 🔭 Estagiário FullStack
+- 🔭 Engenheiro de Software
 - 📚 Estudo Engenharia da Computação na UFPE
 
 <div align="center">
