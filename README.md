@@ -24,7 +24,7 @@
   <a href="https://instagram.com/guimorone" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guimorone@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guimorone" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://guimorone.github.io" target="_blank"><img src="https://teach.ufl.edu/wp-content/uploads/2021/06/2021-06-24-TA-Portfolio-Series-Badge-15.png" target="_blank" alt="Portfolio"></a> 
+  <a href="https://guimorone.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20-20B2AA?style=for-the-badge" target="_blank"></a>
    
    ![Snake animation](https://raw.githubusercontent.com/guimorone/guimorone/output/github-contribution-grid-snake-dark.svg)
    
