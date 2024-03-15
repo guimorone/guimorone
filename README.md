@@ -1,7 +1,7 @@
 ## Olá! Eu sou Guilherme Morone
 
-- 🔭 Engenheiro de Software
-- 📚 Estudo Engenharia da Computação na UFPE
+- 👨‍💻 Engenheiro de Software
+- 📚 Engenharia da Computação no CIn-UFPE
 
 <div align="center">
   <a href="https://github.com/guimorone">
