@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/guimorone">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimorone&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimorone&theme=dracula&show_icons=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimorone&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
