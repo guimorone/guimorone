@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/guimorone">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimorone&theme=aura_dark&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimorone&layout=compact&theme=aura_dark&langs_count=10&hide=Jupyter%20Notebook,HTML,CSS"/>
+  <img height="180em" src="https://github-readme-stats-two-bice-87.vercel.app/api?username=guimorone&theme=aura_dark&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-two-bice-87.vercel.app/api/top-langs/?username=guimorone&layout=compact&theme=aura_dark&langs_count=10&hide=Jupyter%20Notebook,HTML,CSS"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
